@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center" xmlns="http://www.w3.org/1999/html">
 <!-- logo -->
 <p align="center">
@@ -782,3 +783,7 @@ Currently, some models in this project are trained based on YOLO. However, since
 - [LabelU (A Lightweight Multi-modal Data Annotation Tool)](https://github.com/opendatalab/labelU)
 - [LabelLLM (An Open-source LLM Dialogue Annotation Platform)](https://github.com/opendatalab/LabelLLM)
 - [PDF-Extract-Kit (A Comprehensive Toolkit for High-Quality PDF Content Extraction)](https://github.com/opendatalab/PDF-Extract-Kit)
+=======
+# my-first-project
+学习git
+>>>>>>> 3439751ed36d08ebe1fb7f6921c23b2ce37dab7d
